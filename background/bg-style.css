@@ -1,0 +1,9 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Map_of_Akhand_Bharat.jpg/1200px-Map_of_Akhand_Bharat.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* background-blend-mode: ; */
+}
